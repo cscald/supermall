@@ -1,4 +1,4 @@
-# newvuecli3
+# newitem2
 
 ## Project setup
 ```
