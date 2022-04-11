@@ -1,4 +1,4 @@
-# supermall
+# newvuecli3
 
 ## Project setup
 ```
